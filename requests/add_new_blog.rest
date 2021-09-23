@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs/
+Content-Type: application/json
+
+
+{
+    "title": "How to reformat",
+    "author": "Artr",
+    "url": "github.com/93Artr",
+    "likes": 2
+}
